@@ -1,0 +1,20 @@
+.red {
+    color: red;
+}
+
+.titre {
+    text-align: center;
+    font-weight: bold;
+    font-size: 100%;
+}
+
+.green {
+    color: green;
+
+}
+.italic{
+    font-style: italic;
+}
+.police{
+    font-family: Arial, Helvetica, sans-serif;
+}
